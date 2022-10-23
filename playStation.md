@@ -1,6 +1,6 @@
 ---
 author: epidrome
-title: playStation 1
+title: playStation 
 year: 1994
 image_url: https://github.com/inf2021122/images/blob/inf2021122/playStation.png
 caption: Το playStation 1 είναι κονσόλα η οποία κυκλοφόρησε στις 3 Δεκεμβρίου του 1994 στην Ιαπωνία,έχει επίσης επιτυχημένους διαδόχους και αναβαθμίσεις.
